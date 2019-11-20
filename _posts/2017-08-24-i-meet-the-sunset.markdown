@@ -1,28 +1,22 @@
 ---
 layout: post
-title:  I meet the sunset
-date:   2017-08-24 13:32:20 +0300
+title:  Remember Me——致远学院2019届毕业舞会
+date:   2019-06-30 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
-tags: [Blog, Sunset]
-author: # Add name author (optional)
+tags: [活动, 毕业舞会]
+author: 宣传中心 # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+光阴流转，当初少年经历四年相会后也终要远行。在即将毕业的致远学子的大学生活接近尾声之时，6月28日晚7点，致远学院2019届毕业舞会“Remember Me”在理科群楼六号楼三楼大厅举行。致远学院的老师们和60多位毕业生参加舞会，一同共度这个难忘的夜晚。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+本次舞会以“Remember Me”为主题，共分为红毯入场，舞蹈教学，自由舞蹈，冷餐会，小游戏以及最后的Dancing King&Queen环节。携手舞伴，走过精心布置的长廊，同学们优雅地踏上红毯，留下宝贵的合影，在签名墙上郑重地留下自己的名字，按序入场，盛装出席，正式拉开了此次舞会的序幕。
 
-Jekyll also offers powerful support for code snippets:
+舞会主持人——2015级生命科学方向的李海廓同学和2016级工科荣誉计划的李钰玲同学，通过精彩的暖场视频，让同学们融入美妙的舞会氛围，回忆起从四年前的初识、相知、相熟的点点滴滴，缘分相聚在此，共同成长，收获友谊。 “Remember Me”，希望大家能永远记住属于每个人的致远四年最好的时光。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+本次舞会还特别邀请到上海交通大学国标舞协会的陈利华老师和周勍老师现场为大家进行舞蹈教学，经过老师们的亲切指导与示范，一对对同学们也渐渐化身为舞蹈的精灵，伴随悄然响起的华尔兹舞曲翩然起舞，伴随着时光的旋律，旋转出青春的模样。同学们深情对视，舞会在一曲曲舞蹈音乐中，气氛渐渐走向高潮。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+随后的冷餐会上，同学们尽情享受着美食，品尝精致的甜点，穿上西装的少年与盛装打扮的少女互相交谈，分享着四年致远学习生活中的点点滴滴。之后在主持人的带领下，同学们进行了轻松愉快的游戏环节，欢声笑语此起彼伏。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+最后，舞会的主旋律奏响，毕业舞会在同学们的合影中走向谢幕，经舞蹈老师评选，计算机方向的孔冰玉和她的舞伴张天扬当选“舞后”“舞王”，他们也为大家带来了自己的舞蹈表演，获得了在场大家的祝贺与掌声。
+
+致远学子们四年朝朝暮暮的回忆必定会因这场舞会更添浓墨重彩的一笔，大家脸上都洋溢这幸福的笑容。以舞会告别同学、告别旧日时光，就是在这样的夜晚，将人和时光留在记忆里。祝愿2019届致远学子们此去前程似锦，归来仍是少年！
