@@ -11,4 +11,4 @@ author: 致远学院宣传中心 # Add name author (optional)
 
     宣传中心为此次活动设计了主图、明信片、信封等各类宣传品，动态logo、动态主图等可视化，制作了《致爱青春》微电影。
     
-    
+    ![zhutu]({{site.baseurl}}/assets/img/post-1.jpg)
