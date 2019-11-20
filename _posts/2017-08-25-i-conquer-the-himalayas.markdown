@@ -2,9 +2,9 @@
 layout: post
 title:  青春启航，致爱出发——致远荣誉计划2019级新生素质拓展训练暨“致爱青春”迎新晚会
 date:   2019-10-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: 2019级东方绿舟设计品
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains]
+tags: [活动, 东方绿舟]
 author: 致远学院宣传中心 # Add name author (optional)
 ---
 2019年10月20日，致远荣誉计划2019级新生素质拓展训练暨“致爱青春”迎新晚会在东方绿舟圆满举办。本次素质拓展活动旨在为全体新生提供一个相互熟悉、亲近交流的机会，增强团队合作能力，进一步帮助新生融入新集体，适应在致远学院的新生活。来自2019级“致远荣誉计划”的300余名新生同学共同完成了这段难忘的户外拓展之旅。致远学院党总支书记洪梅、副院长兼生命科学方向项目主任陈峰、党总支副书记吴晓玲、副院长熊红凯、计算机科学方向项目主任俞勇、生物医学科学方向项目主任郭晓奎、化学化工学院副书记郑浩等在内的老师们共同参与了本次活动。
