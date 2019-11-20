@@ -1,20 +1,10 @@
 ---
 layout: post
-title:  I conquer the Himalayas
-date:   2017-08-25 13:32:20 +0300
+title:  青春启航，致爱出发——致远荣誉计划2019级新生素质拓展训练暨“致爱青春”迎新晚会
+date:   2019-10-20 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
 tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+author: 致远学院宣传中心 # Add name author (optional)
 ---
-Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
-
-Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
-
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
-
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
-
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
-
-8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
+2019年10月20日，致远荣誉计划2019级新生素质拓展训练暨“致爱青春”迎新晚会在东方绿舟圆满举办。本次素质拓展活动旨在为全体新生提供一个相互熟悉、亲近交流的机会，增强团队合作能力，进一步帮助新生融入新集体，适应在致远学院的新生活。来自2019级“致远荣誉计划”的300余名新生同学共同完成了这段难忘的户外拓展之旅。致远学院党总支书记洪梅、副院长兼生命科学方向项目主任陈峰、党总支副书记吴晓玲、副院长熊红凯、计算机科学方向项目主任俞勇、生物医学科学方向项目主任郭晓奎、化学化工学院副书记郑浩等在内的老师们共同参与了本次活动。
