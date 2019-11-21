@@ -21,6 +21,6 @@ author: 致远学院宣传中心 # Add name author (optional)
 <div align="center"><iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313376&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="100%"> </iframe></div>
 <div align="center">《致爱青春》微电影 第二集</div>
 <div align="center"><iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313398&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="100%"> </iframe></div>
-<div align="center">更多内容请移步bilibli致远学院官方号 ![致远学院bilibili](https://www.bilibili.com/video/av75597091?p=1)
+<div align="center">更多内容请移步bilibli致远学院官方号 ![致远学院bilibili](https://www.bilibili.com/video/av75597091?p=1)<br>
 《致爱青春》微电影 Made by 宣传中心</div>
 
