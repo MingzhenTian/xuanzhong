@@ -14,7 +14,7 @@ author: 致远学院宣传中心 # Add name author (optional)
 <div align="center"><img src="{{site.baseurl}}/assets/img/post-1.jpg" width="67%" title="东方绿舟主图 Designed by 林悦依" align="center"></div>
 <div align="center">东方绿舟主图 Designed by 林悦依</div>
 <br>
-<div align="center"><iframe src="//player.bilibili.com/player.html?aid=76500314&cid=130855806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="270" width="270"> </iframe></div>
+<div align="center"><iframe src="//player.bilibili.com/player.html?aid=76500314&cid=130855806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="270" width="580"> </iframe></div>
 <div align="center">东方绿舟动态logo Designed by 田明振</div>
 <br>
 <div align="center">《致爱青春》微电影 第一集</div>
