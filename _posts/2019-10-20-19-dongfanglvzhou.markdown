@@ -17,6 +17,6 @@ author: 致远学院宣传中心 # Add name author (optional)
 <div align="center"><img src="{{site.baseurl}}/assets/img/lzlogo.gif" width="67%" title="东方绿舟动态logo Designed by 田明振" align="center"></div>
 <div align="center">东方绿舟动态logo Designed by 田明振</div>
 <br>
-<iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313376&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div align="center"><iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313376&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" zoom="150%"> </iframe></div>
 <div align="center">东方绿舟微电影 Made by 宣传中心</div>
 
