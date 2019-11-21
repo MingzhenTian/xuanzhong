@@ -11,16 +11,19 @@ author: 致远学院宣传中心 # Add name author (optional)
 
 宣传中心为此次活动设计了主图、明信片、信封等各类宣传品，动态logo、动态主图等可视化，制作了《致爱青春》微电影。
 <br>
+<div align="center">东方绿舟主图</div>
 <div align="center"><img src="{{site.baseurl}}/assets/img/post-1.jpg" width="67%" title="东方绿舟主图 Designed by 林悦依" align="center"></div>
-<div align="center">东方绿舟主图 Designed by 林悦依</div>
+<div align="center">Designed by 林悦依</div>
 <br>
+<div align="center">东方绿舟动态logo</div>
 <div align="center"><iframe src="//player.bilibili.com/player.html?aid=76500314&cid=130855806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="270" width="580"> </iframe></div>
-<div align="center">东方绿舟动态logo Designed by 田明振</div>
+<div align="center">Designed by 田明振</div>
 <br>
 <div align="center">《致爱青春》微电影 第一集</div>
 <div align="center"><iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313376&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="335" width="580"> </iframe></div>
+<br>
 <div align="center">《致爱青春》微电影 第二集</div>
 <div align="center"><iframe src="//player.bilibili.com/player.html?aid=75597091&cid=129313398&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="335" width="580"> </iframe></div>
 <div align="center">更多内容请移步<a href="https://www.bilibili.com/video/av75597091?p=1" target="_blank">bilibli致远学院官方号</a><br>
-《致爱青春》微电影 Made by 宣传中心</div>
+Made by 宣传中心</div>
 
